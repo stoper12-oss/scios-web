@@ -14,7 +14,7 @@ export default function Pricing() {
 
       <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-10">
 
-        {/* PLUS */}
+        {/* SCIOS PLUS */}
         <div className="border border-gray-800 rounded-xl p-8 flex flex-col">
 
           <h2 className="text-2xl font-semibold mb-4">SCIOS Plus</h2>
@@ -84,9 +84,9 @@ export default function Pricing() {
           <h2 className="text-2xl font-semibold mb-4">Exposure Monitoring</h2>
 
           <p className="text-gray-400 mb-6">
-            Continuous scanning of your digital footprint to detect
-            exposed credentials, vulnerable infrastructure,
-            and cybersecurity risks before attackers do.
+            Continuous scanning of your company's digital footprint
+            to detect exposed credentials, vulnerable infrastructure,
+            and cybersecurity risks before attackers discover them.
           </p>
 
           <p className="text-4xl font-bold mb-6">$199/mo</p>
@@ -111,7 +111,7 @@ export default function Pricing() {
         </div>
 
 
-        {/* SCIOS PRO */}
+        {/* SCIOS PROFESSIONAL */}
         <div className="border border-gray-800 rounded-xl p-8 flex flex-col">
 
           <h2 className="text-2xl font-semibold mb-4">SCIOS Professional</h2>
