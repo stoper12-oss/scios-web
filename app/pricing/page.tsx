@@ -7,8 +7,9 @@ export default function Pricing() {
       </h1>
 
       <p className="text-center text-gray-400 mb-20 max-w-2xl mx-auto">
-        Modular AI infrastructure and monitoring tools designed for operators,
-        developers, and cybersecurity professionals.
+        SCIOS provides local-first AI infrastructure, automation tools,
+        and cybersecurity monitoring designed for operators, developers,
+        and modern digital businesses.
       </p>
 
       <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-10">
@@ -19,13 +20,14 @@ export default function Pricing() {
           <h2 className="text-2xl font-semibold mb-4">SCIOS Plus</h2>
 
           <p className="text-gray-400 mb-6">
-            Entry-level access to the SCIOS platform tools.
+            Entry-level access to the SCIOS ecosystem for developers
+            and AI automation enthusiasts.
           </p>
 
           <p className="text-4xl font-bold mb-6">$8/mo</p>
 
           <ul className="text-gray-400 space-y-2 mb-8 flex-1">
-            <li>Platform access</li>
+            <li>Core platform access</li>
             <li>Basic automation tools</li>
             <li>Community support</li>
           </ul>
@@ -33,6 +35,7 @@ export default function Pricing() {
           <a
             href="https://buy.stripe.com/6oU28q8qd6PTfeX5LC1Fe04"
             target="_blank"
+            rel="noopener noreferrer"
             className="bg-white text-black px-6 py-3 rounded-lg text-center font-semibold"
           >
             Get Started
@@ -47,7 +50,8 @@ export default function Pricing() {
           <h2 className="text-2xl font-semibold mb-4">Sovereign AI</h2>
 
           <p className="text-gray-400 mb-6">
-            Lightweight modular AI system deployment.
+            Deploy autonomous AI modules locally while maintaining
+            full control of your infrastructure and data.
           </p>
 
           <p className="text-4xl font-bold mb-6">$29/mo</p>
@@ -61,6 +65,7 @@ export default function Pricing() {
           <a
             href="https://buy.stripe.com/aFabJ0dKxb690k32zq1Fe03"
             target="_blank"
+            rel="noopener noreferrer"
             className="bg-white text-black px-6 py-3 rounded-lg text-center font-semibold"
           >
             Subscribe
@@ -79,20 +84,25 @@ export default function Pricing() {
           <h2 className="text-2xl font-semibold mb-4">Exposure Monitoring</h2>
 
           <p className="text-gray-400 mb-6">
-            Continuous monitoring for digital exposure and security risks.
+            Continuous scanning of your digital footprint to detect
+            exposed credentials, vulnerable infrastructure,
+            and cybersecurity risks before attackers do.
           </p>
 
           <p className="text-4xl font-bold mb-6">$199/mo</p>
 
           <ul className="text-gray-400 space-y-2 mb-8 flex-1">
-            <li>Infrastructure exposure scanning</li>
-            <li>Risk intelligence alerts</li>
-            <li>Monitoring dashboard</li>
+            <li>Digital footprint exposure scanning</li>
+            <li>Credential breach monitoring</li>
+            <li>Attack surface intelligence</li>
+            <li>Real-time security alerts</li>
+            <li>Security monitoring dashboard</li>
           </ul>
 
           <a
             href="https://buy.stripe.com/dRmaEWeOB5LP4Aj5LC1Fe02"
             target="_blank"
+            rel="noopener noreferrer"
             className="bg-blue-600 px-6 py-3 rounded-lg text-center font-semibold"
           >
             Subscribe
@@ -107,7 +117,8 @@ export default function Pricing() {
           <h2 className="text-2xl font-semibold mb-4">SCIOS Professional</h2>
 
           <p className="text-gray-400 mb-6">
-            Full AI infrastructure automation platform.
+            Full AI infrastructure automation platform designed
+            for advanced operators and enterprise environments.
           </p>
 
           <p className="text-4xl font-bold mb-6">$499/mo</p>
@@ -121,6 +132,7 @@ export default function Pricing() {
           <a
             href="https://buy.stripe.com/6oUeVceOB2zD2sb4Hy1Fe01"
             target="_blank"
+            rel="noopener noreferrer"
             className="bg-white text-black px-6 py-3 rounded-lg text-center font-semibold"
           >
             Subscribe
